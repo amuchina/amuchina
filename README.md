@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amuchina
 - 👀 I’m interested in java, web dev, ruby and python
 - 🌱 I’m currently learning java
-- 📫 How to reach me: dm me or send me an email to strawberrylyt@gmail.com
+- 📫 How to reach me: dm me or send me an email to giovadesio26@gmail.com
 
 <!---
 amuchina/amuchina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
